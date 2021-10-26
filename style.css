@@ -6,7 +6,7 @@ body{
 }
 h1{
     font-size: 48px;
-    /* uzycie wyuszenia przełamania kaskadowosci */
+    /* uzycie wyuszenia przełamania kaskadowosci !important*/
     color: red !important;
 }
 /* Stylizacja linkow link */
