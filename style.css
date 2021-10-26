@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+    font-family: Verdana;
+    font-size: 20px;
+    color: white;
+}
+h1{
+    font-size: 48px;
+    /* uzycie wyuszenia przełamania kaskadowosci */
+    color: red !important;
+}
+/* Stylizacja linkow link */
+a:link
+{
+    color: yellow;
+}
+/* link */
+a:visited
+{
+    color: yellow;
+}
+/* link */
+a:hover
+{
+    color: red;
+}
+
+
